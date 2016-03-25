@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jogo de Dado</string>
+    <string name="txtVoce">Você</string>
+    <string name="btnJogar">Jogar</string>
+    <string name="txtVencedor">Nessa rodada deu: </string>
+    <string name="txtAndroid"> Android</string>
+    <string name="txtHumano"> Você</string>
+    <string name="txtEmpate"> Empatou</string>
+</resources>
